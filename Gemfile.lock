@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    jaro_winkler (1.3.6)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  jaro_winkler
+
+BUNDLED WITH
+   1.10.6
